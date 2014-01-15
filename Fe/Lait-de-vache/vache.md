@@ -1,6 +1,8 @@
 Le mont d'or
 ============
 
-En provenance de Rhône-Alpes, le mont d'or est un fromage de vache.
+En provenance du Jura, le mont d'or est un fromage de vache à pâte molle à croûte lavée.
+Ce fromage a pour particularité d'être coulant. Il peut se manger froid, tiède ou chaud.
+En bouche, il est tout simplement **orgasmique**. Il procure beaucoup de plaisir à votre palais... 
 
-![Super photo](https://lh5.googleusercontent.com/-Z6ZM7YprapM/AAAAAAAAAAI/AAAAAAAAAMU/sF4b-YLobqY/s120-c/photo.jpg COUCOU)
+![Le mont d'or fondu](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mont_d%27or_chaud.jpg/800px-Mont_d%27or_chaud.jpg)
