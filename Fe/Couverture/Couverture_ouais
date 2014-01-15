@@ -1,3 +1,5 @@
 COUVERTURE
 ==========
-[Cela ne fonctionne pas](COUVERTURE_FROMAGE.png "Couverture Mag")
+
+[couv]: COUVERTURE_FROMAGE.png
+[![la couv du magazine][couv]]
