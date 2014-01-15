@@ -10,3 +10,5 @@ CHEVRE
 Il n'avait pas tort. Ceux qui n'aiment pas le fromage de chèvre sont des personnes amorales qui mériteraient d'être excluses de la société, à mon humble avis, sans être quelqu'un d'intolérant bien entendu
 
 Le fromage de chèvre est obtenu gràce à  la transformation du lait de chèvre.
+
+La France regorge de région avec leur spécialté de fromage de chèvre comme dans le Poitou, le Périgord ou encore le Rouergue.
